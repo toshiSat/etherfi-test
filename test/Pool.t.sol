@@ -8,7 +8,7 @@ contract PoolTest is Test {
 
     function setUp() public {
         // Deploy MyToken.sol
-        // Deploy pool using factory address to include MyToken/WETH
+        // Create pool using factory address to include MyToken/WETH
     }
 
     function testAddLiquidity() public {
