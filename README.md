@@ -11,10 +11,11 @@ Using the given contracts, complete the following tasks.
 There is no need to deploy the contracts, using unit tests to demostrate the functionality is enough
 
 - Create an ERC-20 Token called "My Token" (MTK) and mint 1 million tokens to yourself
-- Inside `Pool.t.sol` Deploy a WETH/MTK Uniswap V2 liquidity pool using the factory address provided
-- Deposit WETH and MTK tokens into the liquidity pool
-- Swap using the liquidity pool
-- Withdraw tokens from the liquidity pool
+- Inside `Pool.t.sol`:
+  - Deploy a WETH/MTK Uniswap V2 liquidity pool using the factory address provided
+  - Deposit WETH and MTK tokens into the liquidity pool
+  - Swap using the liquidity pool
+  - Withdraw tokens from the liquidity pool
 
 ## Commands
 
