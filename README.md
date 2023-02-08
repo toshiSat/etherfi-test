@@ -19,8 +19,8 @@ There is no need to deploy the contracts, using unit tests to demostrate the fun
 
 ## Commands
 
-Build - `forge build`
-Test - `forge test --fork-url $ETH_RPC_URL -vv` 
+- Build - `forge build`
+- Test - `forge test --fork-url $ETH_RPC_URL -vv` 
 
 ## Helpful Links
 
